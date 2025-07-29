@@ -1,0 +1,1289 @@
+timestamp,emotion,reason
+2025-07-12 19:19:04,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:04,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:04,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:04,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:05,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:05,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:05,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:06,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:06,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:06,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:07,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:07,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:08,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:08,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:08,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:08,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:09,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:09,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:09,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:10,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:10,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:10,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:11,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:11,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:11,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:12,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:12,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:13,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:13,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:13,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:13,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:14,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:14,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:14,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:15,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:15,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:15,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:16,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:19:16,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:17,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:19:17,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:17,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:17,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:19:18,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:18,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:18,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:19,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:19,angry,Webcam: Frustration or irritation detected.
+2025-07-12 19:19:19,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:20,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:20,angry,Webcam: Frustration or irritation detected.
+2025-07-12 19:19:20,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:21,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:19:21,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:21,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:22,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:19:22,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:22,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:19:23,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:23,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:23,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:19:24,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:24,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:24,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:25,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:25,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:25,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:26,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:26,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:26,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:27,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:19:27,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:28,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:28,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:28,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:28,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:29,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:29,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:29,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:30,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:30,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:30,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:31,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:31,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:32,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:32,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:32,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:33,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:33,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:33,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:33,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:34,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:34,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:34,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:35,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:35,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:36,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:36,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:36,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:37,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:37,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:37,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:38,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:38,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:38,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:38,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:39,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:39,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:40,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:40,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:40,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:41,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:41,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:41,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:42,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:19:42,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:42,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:43,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:19:43,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:43,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:19:43,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:44,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:44,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:44,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:45,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:45,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:19:45,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:46,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:46,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:46,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:47,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:47,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:48,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:48,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:48,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:19:48,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:49,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:49,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:49,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:50,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:50,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:50,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:51,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:51,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:51,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:52,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:19:52,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:52,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:53,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:19:53,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:53,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:19:54,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:54,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:54,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:55,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:55,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:55,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:56,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:56,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:56,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:57,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:57,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:58,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:58,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:58,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:58,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:59,No_Detection,No hand found in webcam frame
+2025-07-12 19:19:59,neutral,Webcam: Calm and composed.
+2025-07-12 19:19:59,No_Detection,No hand found in webcam frame
+2025-07-12 19:20:00,No_Detection,No hand found in webcam frame
+2025-07-12 19:20:00,neutral,Webcam: Calm and composed.
+2025-07-12 19:20:00,No_Detection,No hand found in webcam frame
+2025-07-12 19:20:01,neutral,Webcam: Calm and composed.
+2025-07-12 19:20:01,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:32,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:32,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:32,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:32,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:33,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:33,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:33,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:34,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:34,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:34,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:35,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:35,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:35,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:35,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:36,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:36,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:36,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:37,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:37,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:24:37,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:38,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:24:38,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:39,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:39,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:39,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:24:40,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:40,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:24:40,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:24:41,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:41,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:41,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:42,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:42,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:42,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:43,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:43,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:43,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:44,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:44,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:44,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:45,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:45,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:45,neutral,Webcam: Calm and composed.
+2025-07-12 19:24:45,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:46,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:46,angry,Webcam: Frustration or irritation detected.
+2025-07-12 19:24:46,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:47,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:47,angry,Webcam: Frustration or irritation detected.
+2025-07-12 19:24:47,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:48,angry,Webcam: Frustration or irritation detected.
+2025-07-12 19:24:48,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:48,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:49,angry,Webcam: Frustration or irritation detected.
+2025-07-12 19:24:49,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:49,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:24:50,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:50,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:50,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:24:51,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:51,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:24:51,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:52,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:52,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:24:52,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:53,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:24:53,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:53,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:24:54,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:24:54,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:24:54,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:24:54,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:24:55,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:24:55,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:24:55,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:24:56,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:24:56,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:24:57,No_Detection,No hand found in webcam frame
+2025-07-12 19:24:57,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-12 19:24:57,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:24:58,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-12 19:24:58,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:24:58,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:24:59,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-12 19:24:59,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:24:59,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:25:00,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-12 19:25:00,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:25:00,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:25:01,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:25:01,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:25:01,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:25:02,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:25:02,angry,Webcam: Frustration or irritation detected.
+2025-07-12 19:25:02,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:25:03,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:25:03,angry,Webcam: Frustration or irritation detected.
+2025-07-12 19:25:03,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:25:04,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:25:04,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:04,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:25:05,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:25:05,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:25:05,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:25:05,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:25:06,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:25:06,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:25:06,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:25:07,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:25:07,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:25:08,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:25:08,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:25:08,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:25:09,happy,"Webcam: Positive mood, feeling good."
+2025-07-12 19:25:09,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:09,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:09,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:25:10,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:10,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:25:10,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:11,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:11,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:25:11,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:12,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:25:12,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:13,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:13,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-12 19:25:13,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:14,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:25:14,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:14,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:14,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:25:15,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:15,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:15,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:16,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:16,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:16,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:17,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:17,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:18,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:18,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:18,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:19,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:19,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:19,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:20,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:20,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:20,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:21,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:21,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:21,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:22,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:22,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:22,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:23,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:23,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:23,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:24,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:24,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:24,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:25,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:25,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:25,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:25,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:26,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:26,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:26,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:27,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:27,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:28,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:28,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-12 19:25:28,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:25:29,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-12 19:25:29,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:29,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:29,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:25:30,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:30,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:25:30,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:31,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:25:31,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-12 19:25:31,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:25:32,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:25:32,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:25:33,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:25:33,surprise,Webcam: Unexpected event or discovery.
+2025-07-12 19:25:33,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:25:34,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-12 19:25:34,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:25:34,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:25:34,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-12 19:25:35,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:25:35,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-12 19:25:35,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:25:36,Neutral,Sign detected: Open Hand (webcam)
+2025-07-12 19:25:36,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:36,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:25:37,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:37,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:38,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:38,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:38,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:39,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:39,No_Detection,No hand found in webcam frame
+2025-07-12 19:25:39,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:25:39,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:40,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:25:40,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:40,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:25:41,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:25:41,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:41,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:25:42,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:42,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:25:43,neutral,Webcam: Calm and composed.
+2025-07-12 19:25:43,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:26:09,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-12 19:26:09,No_Detection,No hand found in webcam frame
+2025-07-12 19:26:10,No_Detection,No hand found in webcam frame
+2025-07-12 19:26:10,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:10,No_Detection,No hand found in webcam frame
+2025-07-12 19:26:11,No_Detection,No hand found in webcam frame
+2025-07-12 19:26:11,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:11,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:26:12,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:12,No_Detection,No hand found in webcam frame
+2025-07-12 19:26:12,No_Detection,No hand found in webcam frame
+2025-07-12 19:26:13,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:13,No_Detection,No hand found in webcam frame
+2025-07-12 19:26:14,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:14,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:26:14,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:26:14,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:15,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:26:15,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:15,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:26:16,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:16,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:26:16,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:26:17,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:17,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:26:18,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:18,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:26:18,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-12 19:26:19,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:19,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:26:19,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:19,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:26:20,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:20,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:26:21,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:26:21,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:21,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:26:22,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:26:22,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:22,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:26:23,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:23,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:26:23,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-12 19:26:24,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-12 19:26:24,No_Detection,No hand found in webcam frame
+2025-07-12 19:26:24,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:24,No_Detection,No hand found in webcam frame
+2025-07-12 19:26:25,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:25,No_Detection,No hand found in webcam frame
+2025-07-12 19:26:25,No_Detection,No hand found in webcam frame
+2025-07-12 19:26:26,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:26,No_Detection,No hand found in webcam frame
+2025-07-12 19:26:27,No_Detection,No hand found in webcam frame
+2025-07-12 19:26:27,neutral,Webcam: Calm and composed.
+2025-07-12 19:26:27,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:00,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:00,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:01,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:01,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:01,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:01,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:02,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:02,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:02,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:03,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:03,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:03,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:04,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:04,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:04,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:05,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:05,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:05,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:06,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:06,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:06,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:06,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:07,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:07,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:07,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:08,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:08,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:08,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:09,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:09,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:10,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:10,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:10,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:11,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:11,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:11,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:11,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:12,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:12,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:12,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:13,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:13,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:13,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:14,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:14,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:14,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:15,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:15,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:15,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:16,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:16,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:16,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:17,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:17,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:17,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:18,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:18,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:18,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:19,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:19,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:19,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:20,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:20,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:20,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:20,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:21,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:21,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:21,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:30,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:30,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:31,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:31,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:31,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:32,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:32,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:32,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:33,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 10:50:33,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:33,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:33,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:50:34,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:34,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:50:34,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:35,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:35,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 10:50:35,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:36,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 10:50:36,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:37,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:37,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 10:50:37,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:38,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:38,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:38,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:39,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:39,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:39,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:39,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:40,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:40,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:41,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:41,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:41,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:42,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:42,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:42,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:43,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:43,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:44,surprise,Webcam: Unexpected event or discovery.
+2025-07-13 10:50:44,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:44,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:44,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:45,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:45,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:45,surprise,Webcam: Unexpected event or discovery.
+2025-07-13 10:50:46,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:46,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:46,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:47,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:47,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:47,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:48,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:48,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:48,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:49,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:49,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:49,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:49,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:50,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:50,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:50,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:51,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:51,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:52,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:52,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:52,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:53,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:53,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:53,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:54,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:54,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:54,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:54,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:55,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:55,neutral,Webcam: Calm and composed.
+2025-07-13 10:50:55,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:56,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:50:56,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:57,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:57,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:50:57,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:58,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:50:58,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:59,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:50:59,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:59,No_Detection,No hand found in webcam frame
+2025-07-13 10:50:59,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:50:59,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:00,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:00,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:51:00,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:01,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:51:01,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:02,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:02,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:51:02,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:03,neutral,Webcam: Calm and composed.
+2025-07-13 10:51:03,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:03,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:04,neutral,Webcam: Calm and composed.
+2025-07-13 10:51:04,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:04,neutral,Webcam: Calm and composed.
+2025-07-13 10:51:04,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:05,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:05,neutral,Webcam: Calm and composed.
+2025-07-13 10:51:05,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:06,neutral,Webcam: Calm and composed.
+2025-07-13 10:51:06,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:07,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:07,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:51:07,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:08,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 10:51:08,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:08,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:08,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-13 10:51:09,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:09,neutral,Webcam: Calm and composed.
+2025-07-13 10:51:09,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:10,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:10,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 10:51:10,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:11,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:51:11,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:12,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:12,neutral,Webcam: Calm and composed.
+2025-07-13 10:51:12,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:13,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 10:51:13,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:13,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:13,neutral,Webcam: Calm and composed.
+2025-07-13 10:51:14,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:14,neutral,Webcam: Calm and composed.
+2025-07-13 10:51:14,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:15,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:15,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:51:15,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:16,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:51:16,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:16,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:17,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:51:17,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:51:17,angry,Webcam: Frustration or irritation detected.
+2025-07-13 10:51:18,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:18,No_Detection,No hand found in webcam frame
+2025-07-13 10:51:18,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:51:19,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:20,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:20,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:20,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:20,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:20,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:21,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:21,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:21,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:22,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:22,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:22,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:23,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:23,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:23,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:24,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:24,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:24,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:25,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:25,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:25,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:26,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:26,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:26,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:27,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:27,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:27,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:27,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:28,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:28,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:28,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:58:29,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:29,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:29,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:58:30,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:30,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:58:31,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:58:31,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:31,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:58:32,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:32,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:58:32,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:58:32,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:33,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:58:33,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:33,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:58:34,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:58:34,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:34,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:58:35,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:58:35,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:35,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:36,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 10:58:36,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:37,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 10:58:37,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:37,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:37,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:58:38,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:38,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:58:38,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:39,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:39,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:58:39,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:40,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:58:40,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:40,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:41,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:41,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:42,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:42,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:42,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:42,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:43,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:43,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:43,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:44,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:58:44,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:44,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:58:45,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:45,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:46,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:46,surprise,Webcam: Unexpected event or discovery.
+2025-07-13 10:58:46,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:47,angry,Webcam: Frustration or irritation detected.
+2025-07-13 10:58:47,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:47,surprise,Webcam: Unexpected event or discovery.
+2025-07-13 10:58:47,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:48,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:48,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:48,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:49,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 10:58:49,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:49,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:50,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 10:58:50,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:50,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:51,angry,Webcam: Frustration or irritation detected.
+2025-07-13 10:58:51,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:52,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:52,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:52,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:52,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:53,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:53,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:53,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:54,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:54,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:54,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:55,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:55,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:55,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:56,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:56,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:56,angry,Webcam: Frustration or irritation detected.
+2025-07-13 10:58:57,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:57,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:57,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:58,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:58,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:58,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:59,No_Detection,No hand found in webcam frame
+2025-07-13 10:58:59,neutral,Webcam: Calm and composed.
+2025-07-13 10:58:59,No_Detection,No hand found in webcam frame
+2025-07-13 10:59:00,angry,Webcam: Frustration or irritation detected.
+2025-07-13 10:59:00,No_Detection,No hand found in webcam frame
+2025-07-13 10:59:00,No_Detection,No hand found in webcam frame
+2025-07-13 10:59:01,angry,Webcam: Frustration or irritation detected.
+2025-07-13 10:59:01,No_Detection,No hand found in webcam frame
+2025-07-13 10:59:01,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:02,No_Detection,No hand found in webcam frame
+2025-07-13 10:59:02,No_Detection,No hand found in webcam frame
+2025-07-13 10:59:02,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:03,No_Detection,No hand found in webcam frame
+2025-07-13 10:59:03,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:03,No_Detection,No hand found in webcam frame
+2025-07-13 10:59:04,No_Detection,No hand found in webcam frame
+2025-07-13 10:59:04,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 10:59:04,No_Detection,No hand found in webcam frame
+2025-07-13 10:59:05,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:05,No_Detection,No hand found in webcam frame
+2025-07-13 10:59:05,No_Detection,No hand found in webcam frame
+2025-07-13 10:59:06,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:06,No_Detection,No hand found in webcam frame
+2025-07-13 10:59:06,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:06,No_Detection,No hand found in webcam frame
+2025-07-13 10:59:19,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-13 10:59:19,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:20,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:20,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:59:20,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:21,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:59:21,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:59:21,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:59:22,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 10:59:22,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:59:22,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:59:22,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:59:23,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:59:23,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:59:24,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:59:24,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:59:24,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:25,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:59:25,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:25,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 10:59:26,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:26,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:59:26,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:27,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:59:27,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:27,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:28,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:28,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:28,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:28,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:29,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:29,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:30,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:30,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:30,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:31,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:31,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:31,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:32,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:32,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:32,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:33,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:33,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:33,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:33,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:34,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:34,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:34,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:35,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:35,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:35,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:36,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:36,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:36,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:37,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:37,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:38,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:38,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 10:59:38,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:38,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:59:39,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:39,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:59:39,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:40,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:40,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:59:40,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:41,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:59:41,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:42,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:42,angry,Webcam: Frustration or irritation detected.
+2025-07-13 10:59:42,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:43,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:59:43,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:43,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:44,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:59:44,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:44,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:44,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:45,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:45,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:45,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:46,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:46,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:47,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:47,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:47,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:48,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:48,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:48,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:49,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:59:49,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:49,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:50,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:50,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:50,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:51,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:51,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:51,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:52,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:52,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:52,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:53,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:53,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:53,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:53,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:54,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:54,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:55,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:55,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:55,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:56,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:56,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:56,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:57,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:57,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:57,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:58,neutral,Webcam: Calm and composed.
+2025-07-13 10:59:58,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:58,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:58,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 10:59:59,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 10:59:59,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:00,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:00,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:00,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:01,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:01,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:01,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:02,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:02,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:02,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:03,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:03,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:03,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:04,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 11:00:04,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:04,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-13 11:00:04,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:05,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:05,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-13 11:00:05,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:06,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:06,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-13 11:00:06,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:07,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:07,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:07,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:08,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-13 11:00:08,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 11:00:09,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-13 11:00:09,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 11:00:09,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 11:00:09,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-13 11:00:10,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 11:00:10,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 11:00:10,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 11:00:11,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 11:00:11,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 11:00:11,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 11:00:12,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 11:00:12,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 11:00:13,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:13,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 11:00:13,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:13,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 11:00:14,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:14,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:14,happy,"Webcam: Positive mood, feeling good."
+2025-07-13 11:00:15,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:15,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-13 11:00:15,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:16,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:16,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 11:00:16,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:17,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:17,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:17,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:18,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:18,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:18,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:19,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:19,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:19,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:20,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:20,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:20,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:21,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:21,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:21,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:22,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:22,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:22,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:23,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:23,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:23,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:23,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:24,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:24,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:25,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:25,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:25,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:26,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:26,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:26,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:27,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:27,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:27,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:28,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:28,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:28,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:28,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:29,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:29,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:29,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:30,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:30,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:31,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:31,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:31,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:32,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:32,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:32,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:33,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:33,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:33,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:33,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:34,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:34,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-13 11:00:34,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:35,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-13 11:00:35,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:36,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:36,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:36,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:37,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 11:00:37,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:37,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:38,angry,Webcam: Frustration or irritation detected.
+2025-07-13 11:00:38,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:38,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:38,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 11:00:39,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:39,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 11:00:39,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:40,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:40,fear,Webcam: Feeling of apprehension or anxiety.
+2025-07-13 11:00:40,Neutral,Sign detected: Open Hand (webcam)
+2025-07-13 11:00:41,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 11:00:41,Neutral,Sign detected: Other Gesture (webcam)
+2025-07-13 11:00:42,Happy,Sign detected: Thumbs Up (webcam)
+2025-07-13 11:00:42,sad,"Webcam: Feeling down, perhaps lonely or disappointed."
+2025-07-13 11:00:42,No_Detection,No hand found in webcam frame
+2025-07-13 11:00:43,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:43,No_Detection,No hand found in webcam frame
+2025-07-13 11:00:43,No_Detection,No hand found in webcam frame
+2025-07-13 11:00:44,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:44,No_Detection,No hand found in webcam frame
+2025-07-13 11:00:44,neutral,Webcam: Calm and composed.
+2025-07-13 11:00:44,No_Detection,No hand found in webcam frame
+2025-07-13 11:00:45,No_Detection,No hand found in webcam frame
+2025-07-13 11:00:45,neutral,Webcam: Calm and composed.
+2025-07-13 11:01:14,No_Speech,Real-time Voice: Unknown reason.
+2025-07-13 11:11:59,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:00,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:01,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:01,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:02,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:03,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:04,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:05,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:06,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:06,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:07,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:08,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:09,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:10,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:11,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:12:18,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:19,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:20,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:20,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:21,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:21,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:22,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:22,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:23,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:23,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:24,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:24,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:25,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:25,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:26,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:26,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:27,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:28,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:28,No_Detection,No hand found in webcam frame
+2025-07-13 11:12:29,No_Detection,No hand found in webcam frame
+2025-07-13 11:14:44,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:45,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:46,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:47,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:47,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:48,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:49,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:50,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:51,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:52,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:52,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:53,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:54,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:55,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:56,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:57,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:57,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:58,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:14:59,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:15:00,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:15:01,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:15:01,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:15:02,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:15:03,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:15:04,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:15:05,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:15:06,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:15:07,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:15:07,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:15:08,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:15:09,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:15:10,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:24:56,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:24:56,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:24:57,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:24:58,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:24:59,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:00,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:01,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:01,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:02,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:03,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:04,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:05,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:06,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:06,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:07,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:08,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:09,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:10,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:11,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:11,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:12,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:13,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:14,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:15,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:16,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:16,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:17,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:25:29,No_Detection,No hand found in webcam frame
+2025-07-13 11:25:29,No_Detection,No hand found in webcam frame
+2025-07-13 11:25:30,No_Detection,No hand found in webcam frame
+2025-07-13 11:44:02,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:44:02,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:44:03,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:44:04,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:44:05,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:44:06,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:44:07,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:44:07,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:44:16,No_Detection,No hand found in webcam frame
+2025-07-13 11:44:16,No_Detection,No hand found in webcam frame
+2025-07-13 11:44:17,No_Detection,No hand found in webcam frame
+2025-07-13 11:44:17,No_Detection,No hand found in webcam frame
+2025-07-13 11:44:18,No_Detection,No hand found in webcam frame
+2025-07-13 11:44:18,No_Detection,No hand found in webcam frame
+2025-07-13 11:44:19,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:19,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:20,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:20,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:21,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:21,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:22,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:22,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:23,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:23,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:24,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:24,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:25,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:26,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:26,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:27,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:27,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:28,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:28,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:29,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:29,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:30,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:30,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:31,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:31,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:32,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:32,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:33,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:33,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:34,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:34,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:35,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:35,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:36,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:36,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:37,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:38,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:38,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:39,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:39,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:40,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:40,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:41,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:41,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:42,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:42,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:43,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:43,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:44,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:44,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:45,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:45,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:46,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:46,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:47,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:48,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:48,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:44:49,No_Detection,No hand found in webcam frame
+2025-07-13 11:44:49,No_Detection,No hand found in webcam frame
+2025-07-13 11:44:50,No_Detection,No hand found in webcam frame
+2025-07-13 11:44:50,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:16,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:45:17,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:45:18,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:45:19,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:45:20,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:45:21,No_Detection,An unexpected error occurred: name 'sys' is not defined
+2025-07-13 11:45:30,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:30,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:31,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:31,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:32,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:32,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:33,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:33,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:34,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:35,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:35,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:36,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:36,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:37,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:37,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:38,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:38,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:39,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:39,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:40,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:40,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:41,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:41,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:42,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:42,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:43,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:43,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:44,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:45,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:45,No_Detection,No hand found in webcam frame
+2025-07-13 11:45:46,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:46,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:47,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:47,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:48,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:48,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:49,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:49,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:50,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:50,No_Detection,Sign detected: Prediction Error (webcam)
+2025-07-13 11:45:51,No_Detection,Sign detected: Prediction Error (webcam)

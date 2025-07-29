@@ -1,0 +1,396 @@
+timestamp,emotion,reason
+2025-07-13 11:59:21,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 11:59:21,neutral,Webcam: You seem calm and composed.
+2025-07-13 11:59:22,neutral,Webcam: You seem calm and composed.
+2025-07-13 11:59:23,angry,Webcam: You appear to be feeling frustrated or irritated.
+2025-07-13 11:59:23,neutral,Webcam: You seem calm and composed.
+2025-07-13 11:59:24,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 11:59:25,neutral,Webcam: You seem calm and composed.
+2025-07-13 11:59:37,No_Detection,No hand found in webcam frame
+2025-07-13 11:59:37,No_Detection,No hand found in webcam frame
+2025-07-13 11:59:38,No_Detection,No hand found in webcam frame
+2025-07-13 11:59:39,No_Detection,No hand found in webcam frame
+2025-07-13 11:59:39,No_Detection,No hand found in webcam frame
+2025-07-13 11:59:40,No_Detection,No hand found in webcam frame
+2025-07-13 11:59:40,neutral,Sign detected: Please (webcam)
+2025-07-13 11:59:41,fear,Sign detected: Please (webcam)
+2025-07-13 11:59:41,sad,Sign detected: Please (webcam)
+2025-07-13 11:59:42,sad,Sign detected: Please (webcam)
+2025-07-13 11:59:42,sad,Sign detected: Please (webcam)
+2025-07-13 11:59:43,sad,Sign detected: Please (webcam)
+2025-07-13 11:59:43,angry,Sign detected: Please (webcam)
+2025-07-13 11:59:44,angry,Sign detected: Please (webcam)
+2025-07-13 11:59:44,happy,Sign detected: Please (webcam)
+2025-07-13 11:59:45,happy,Sign detected: Please (webcam)
+2025-07-13 11:59:45,happy,Sign detected: Please (webcam)
+2025-07-13 11:59:46,happy,Sign detected: Please (webcam)
+2025-07-13 11:59:46,happy,Sign detected: Please (webcam)
+2025-07-13 11:59:47,fear,Sign detected: Please (webcam)
+2025-07-13 11:59:48,happy,Sign detected: Please (webcam)
+2025-07-13 11:59:48,fear,Sign detected: Please (webcam)
+2025-07-13 11:59:49,happy,Sign detected: Please (webcam)
+2025-07-13 11:59:49,fear,Sign detected: Please (webcam)
+2025-07-13 11:59:50,fear,Sign detected: Please (webcam)
+2025-07-13 11:59:50,fear,Sign detected: Please (webcam)
+2025-07-13 11:59:51,fear,Sign detected: Please (webcam)
+2025-07-13 11:59:51,sad,Sign detected: Please (webcam)
+2025-07-13 11:59:52,sad,Sign detected: Please (webcam)
+2025-07-13 11:59:52,No_Detection,No hand found in webcam frame
+2025-07-13 11:59:53,No_Detection,No hand found in webcam frame
+2025-07-13 11:59:53,angry,Sign detected: Please (webcam)
+2025-07-13 11:59:54,No_Detection,No hand found in webcam frame
+2025-07-13 11:59:54,sad,Sign detected: Please (webcam)
+2025-07-13 11:59:55,No_Detection,No hand found in webcam frame
+2025-07-13 11:59:55,neutral,Sign detected: Please (webcam)
+2025-07-13 11:59:56,happy,Sign detected: Thank You (webcam)
+2025-07-13 11:59:57,neutral,Sign detected: Thank You (webcam)
+2025-07-13 11:59:57,angry,Sign detected: Please (webcam)
+2025-07-13 11:59:58,angry,Sign detected: Please (webcam)
+2025-07-13 11:59:58,fear,Sign detected: Please (webcam)
+2025-07-13 11:59:59,fear,Sign detected: Please (webcam)
+2025-07-13 11:59:59,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:00,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:00,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:01,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:01,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:02,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:02,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:03,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:03,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:04,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:04,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:05,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:05,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:06,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:07,angry,Sign detected: Please (webcam)
+2025-07-13 12:00:07,No_Detection,No hand found in webcam frame
+2025-07-13 12:00:07,No_Detection,No hand found in webcam frame
+2025-07-13 12:00:08,No_Detection,No hand found in webcam frame
+2025-07-13 12:00:09,No_Detection,No hand found in webcam frame
+2025-07-13 12:00:09,No_Detection,No hand found in webcam frame
+2025-07-13 12:00:10,No_Detection,No hand found in webcam frame
+2025-07-13 12:00:10,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:11,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:11,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:12,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:12,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:13,fear,Sign detected: Please (webcam)
+2025-07-13 12:00:13,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:14,fear,Sign detected: Please (webcam)
+2025-07-13 12:00:14,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:15,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:15,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:16,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:17,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:17,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:18,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:18,angry,Sign detected: Please (webcam)
+2025-07-13 12:00:19,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:19,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:20,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:20,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:21,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:21,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:22,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:22,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:23,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:23,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:24,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:24,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:25,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:25,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:26,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:27,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:27,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:28,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:28,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:29,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:29,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:30,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:30,fear,Sign detected: Please (webcam)
+2025-07-13 12:00:31,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:31,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:32,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:32,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:33,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:33,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:34,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:34,angry,Sign detected: Please (webcam)
+2025-07-13 12:00:35,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:35,fear,Sign detected: Please (webcam)
+2025-07-13 12:00:36,fear,Sign detected: Please (webcam)
+2025-07-13 12:00:36,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:37,fear,Sign detected: Please (webcam)
+2025-07-13 12:00:37,happy,Sign detected: Please (webcam)
+2025-07-13 12:00:38,surprise,Sign detected: Please (webcam)
+2025-07-13 12:00:39,fear,Sign detected: Please (webcam)
+2025-07-13 12:00:39,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:40,fear,Sign detected: Please (webcam)
+2025-07-13 12:00:40,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:41,fear,Sign detected: Please (webcam)
+2025-07-13 12:00:41,fear,Sign detected: Please (webcam)
+2025-07-13 12:00:42,fear,Sign detected: Please (webcam)
+2025-07-13 12:00:42,fear,Sign detected: Please (webcam)
+2025-07-13 12:00:43,sad,Sign detected: Please (webcam)
+2025-07-13 12:00:43,neutral,Sign detected: Please (webcam)
+2025-07-13 12:00:44,No_Detection,No hand found in webcam frame
+2025-07-13 12:00:44,No_Detection,No hand found in webcam frame
+2025-07-13 12:00:45,No_Detection,No hand found in webcam frame
+2025-07-13 12:00:45,No_Detection,No hand found in webcam frame
+2025-07-13 12:00:46,No_Detection,No hand found in webcam frame
+2025-07-13 12:03:40,happy,Webcam: You seem content and joyful.
+2025-07-13 12:03:40,angry,Webcam: You appear to be feeling frustrated or irritated.
+2025-07-13 12:03:41,angry,Webcam: You appear to be feeling frustrated or irritated.
+2025-07-13 12:03:42,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:03:43,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:03:44,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:03:44,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:03:45,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:03:46,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:03:47,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:03:48,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:03:49,happy,Webcam: You seem content and joyful.
+2025-07-13 12:03:49,happy,Webcam: You seem content and joyful.
+2025-07-13 12:03:50,happy,Webcam: You seem content and joyful.
+2025-07-13 12:03:51,happy,Webcam: You seem content and joyful.
+2025-07-13 12:03:52,happy,Webcam: You seem content and joyful.
+2025-07-13 12:03:53,happy,Webcam: You seem content and joyful.
+2025-07-13 12:03:54,happy,Webcam: You seem content and joyful.
+2025-07-13 12:03:54,happy,Webcam: You seem content and joyful.
+2025-07-13 12:03:55,happy,Webcam: You seem content and joyful.
+2025-07-13 12:03:56,happy,Webcam: You seem content and joyful.
+2025-07-13 12:03:57,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:03:58,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:03:59,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:03:59,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:04:00,surprise,Webcam: You seem astonished or excited.
+2025-07-13 12:04:01,surprise,Webcam: You seem astonished or excited.
+2025-07-13 12:04:02,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:03,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:04,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:04,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:05,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:06,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:07,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:08,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:09,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:09,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:10,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:11,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:12,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:13,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:13,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:14,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:15,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:16,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:17,angry,Webcam: You appear to be feeling frustrated or irritated.
+2025-07-13 12:04:18,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:18,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:19,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:04:20,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:04:21,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:22,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:23,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:23,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:24,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:25,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:26,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:27,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:28,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:28,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:29,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:04:30,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:04:31,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:04:32,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:04:32,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:04:33,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:04:34,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:35,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:04:36,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:37,happy,Webcam: You seem content and joyful.
+2025-07-13 12:04:37,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:38,surprise,Webcam: You seem astonished or excited.
+2025-07-13 12:04:39,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:40,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:41,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:42,sad,Webcam: You may be feeling down or reflective.
+2025-07-13 12:04:42,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:43,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:44,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:45,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:46,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:04:56,No_Detection,No hand found in webcam frame
+2025-07-13 12:04:56,No_Detection,No hand found in webcam frame
+2025-07-13 12:04:57,No_Detection,No hand found in webcam frame
+2025-07-13 12:04:57,No_Detection,No hand found in webcam frame
+2025-07-13 12:04:58,No_Detection,No hand found in webcam frame
+2025-07-13 12:04:58,No_Detection,No hand found in webcam frame
+2025-07-13 12:04:59,No_Detection,No hand found in webcam frame
+2025-07-13 12:04:59,No_Detection,No hand found in webcam frame
+2025-07-13 12:05:00,angry,Sign detected: Please (webcam)
+2025-07-13 12:05:01,neutral,Sign detected: Please (webcam)
+2025-07-13 12:05:01,neutral,Sign detected: Please (webcam)
+2025-07-13 12:05:02,happy,Sign detected: Please (webcam)
+2025-07-13 12:05:02,happy,Sign detected: Please (webcam)
+2025-07-13 12:05:03,happy,Sign detected: Please (webcam)
+2025-07-13 12:05:03,neutral,Sign detected: Please (webcam)
+2025-07-13 12:05:04,fear,Sign detected: Please (webcam)
+2025-07-13 12:05:04,neutral,Sign detected: Please (webcam)
+2025-07-13 12:05:05,neutral,Sign detected: Please (webcam)
+2025-07-13 12:05:05,neutral,Sign detected: Please (webcam)
+2025-07-13 12:05:06,neutral,Sign detected: Please (webcam)
+2025-07-13 12:05:06,neutral,Sign detected: Please (webcam)
+2025-07-13 12:05:07,happy,Sign detected: Please (webcam)
+2025-07-13 12:05:07,neutral,Sign detected: Please (webcam)
+2025-07-13 12:05:08,neutral,Sign detected: Please (webcam)
+2025-07-13 12:05:08,neutral,Sign detected: Please (webcam)
+2025-07-13 12:05:09,fear,Sign detected: Please (webcam)
+2025-07-13 12:05:10,fear,Sign detected: Please (webcam)
+2025-07-13 12:05:10,fear,Sign detected: Please (webcam)
+2025-07-13 12:05:11,sad,Sign detected: Please (webcam)
+2025-07-13 12:05:11,fear,Sign detected: Please (webcam)
+2025-07-13 12:05:12,fear,Sign detected: Please (webcam)
+2025-07-13 12:05:12,happy,Sign detected: Please (webcam)
+2025-07-13 12:05:13,fear,Sign detected: Please (webcam)
+2025-07-13 12:05:13,surprise,Sign detected: Please (webcam)
+2025-07-13 12:05:14,sad,Sign detected: Please (webcam)
+2025-07-13 12:05:14,angry,Sign detected: Please (webcam)
+2025-07-13 12:05:15,happy,Sign detected: Please (webcam)
+2025-07-13 12:05:15,sad,Sign detected: Please (webcam)
+2025-07-13 12:05:16,surprise,Sign detected: Please (webcam)
+2025-07-13 12:05:16,surprise,Sign detected: Please (webcam)
+2025-07-13 12:05:17,sad,Sign detected: Please (webcam)
+2025-07-13 12:05:18,happy,Sign detected: Please (webcam)
+2025-07-13 12:05:18,neutral,Sign detected: Please (webcam)
+2025-07-13 12:05:19,happy,Sign detected: Please (webcam)
+2025-07-13 12:05:19,happy,Sign detected: Please (webcam)
+2025-07-13 12:05:20,neutral,Sign detected: Please (webcam)
+2025-07-13 12:05:20,neutral,Sign detected: Please (webcam)
+2025-07-13 12:05:21,sad,Sign detected: Please (webcam)
+2025-07-13 12:05:21,sad,Sign detected: Please (webcam)
+2025-07-13 12:05:22,sad,Sign detected: Please (webcam)
+2025-07-13 12:11:49,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:11:49,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:11:50,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:11:51,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:11:51,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:11:52,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:11:53,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:11:54,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:11:55,sad,Webcam: You may be feeling down or reflective.
+2025-07-13 12:11:56,sad,Webcam: You may be feeling down or reflective.
+2025-07-13 12:11:57,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:11:57,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:11:58,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:11:59,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:00,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:01,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:02,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:02,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:03,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:04,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:05,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:06,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:07,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:07,sad,Webcam: You may be feeling down or reflective.
+2025-07-13 12:12:08,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:12:09,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:10,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:11,sad,Webcam: You may be feeling down or reflective.
+2025-07-13 12:12:11,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:12,happy,Webcam: You seem content and joyful.
+2025-07-13 12:12:13,happy,Webcam: You seem content and joyful.
+2025-07-13 12:12:14,angry,Webcam: You appear to be feeling frustrated or irritated.
+2025-07-13 12:12:15,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:16,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:17,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:17,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:18,happy,Webcam: You seem content and joyful.
+2025-07-13 12:12:19,sad,Webcam: You may be feeling down or reflective.
+2025-07-13 12:12:20,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:12:21,happy,Webcam: You seem content and joyful.
+2025-07-13 12:12:22,happy,Webcam: You seem content and joyful.
+2025-07-13 12:12:22,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:23,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:24,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:25,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:26,surprise,Webcam: You seem astonished or excited.
+2025-07-13 12:12:27,surprise,Webcam: You seem astonished or excited.
+2025-07-13 12:12:27,surprise,Webcam: You seem astonished or excited.
+2025-07-13 12:12:28,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:29,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:30,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:31,angry,Webcam: You appear to be feeling frustrated or irritated.
+2025-07-13 12:12:32,angry,Webcam: You appear to be feeling frustrated or irritated.
+2025-07-13 12:12:32,happy,Webcam: You seem content and joyful.
+2025-07-13 12:12:33,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:34,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:12:35,sad,Webcam: You may be feeling down or reflective.
+2025-07-13 12:12:36,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:37,angry,Webcam: You appear to be feeling frustrated or irritated.
+2025-07-13 12:12:37,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:38,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:39,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:40,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:41,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:41,sad,Webcam: You may be feeling down or reflective.
+2025-07-13 12:12:42,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:43,sad,Webcam: You may be feeling down or reflective.
+2025-07-13 12:12:44,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:45,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:46,sad,Webcam: You may be feeling down or reflective.
+2025-07-13 12:12:46,sad,Webcam: You may be feeling down or reflective.
+2025-07-13 12:12:47,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:48,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:49,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:50,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:51,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:51,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:52,happy,Webcam: You seem content and joyful.
+2025-07-13 12:12:53,happy,Webcam: You seem content and joyful.
+2025-07-13 12:12:54,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:12:55,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:12:56,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:12:56,fear,Webcam: You may be experiencing some apprehension.
+2025-07-13 12:12:57,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:58,neutral,Webcam: You seem calm and composed.
+2025-07-13 12:12:59,sad,Webcam: You may be feeling down or reflective.
+2025-07-13 12:13:00,neutral,Webcam: You seem calm and composed.
+2025-07-29 14:03:59,neutral,Webcam: You seem calm and composed.
+2025-07-29 14:03:59,neutral,Webcam: You seem calm and composed.
+2025-07-29 14:04:00,neutral,Webcam: You seem calm and composed.
+2025-07-29 14:04:01,neutral,Webcam: You seem calm and composed.
+2025-07-29 14:04:02,neutral,Webcam: You seem calm and composed.
+2025-07-29 14:04:03,sad,Webcam: You may be feeling down or reflective.
+2025-07-29 14:04:03,sad,Webcam: You may be feeling down or reflective.
+2025-07-29 14:04:04,sad,Webcam: You may be feeling down or reflective.
+2025-07-29 14:04:05,fear,Webcam: You may be experiencing some apprehension.
+2025-07-29 14:04:06,surprise,Webcam: You seem astonished or excited.
+2025-07-29 14:04:07,surprise,Webcam: You seem astonished or excited.
+2025-07-29 14:04:08,fear,Webcam: You may be experiencing some apprehension.
+2025-07-29 14:04:08,surprise,Webcam: You seem astonished or excited.
+2025-07-29 14:04:09,surprise,Webcam: You seem astonished or excited.
+2025-07-29 14:04:10,surprise,Webcam: You seem astonished or excited.
+2025-07-29 14:04:11,neutral,Webcam: You seem calm and composed.
+2025-07-29 14:04:12,sad,Webcam: You may be feeling down or reflective.
+2025-07-29 14:04:13,fear,Webcam: You may be experiencing some apprehension.
+2025-07-29 14:04:13,neutral,Webcam: You seem calm and composed.
+2025-07-29 14:04:14,neutral,Webcam: You seem calm and composed.
+2025-07-29 14:04:15,neutral,Webcam: You seem calm and composed.
+2025-07-29 14:04:16,neutral,Webcam: You seem calm and composed.
+2025-07-29 14:04:17,neutral,Webcam: You seem calm and composed.
+2025-07-29 14:04:18,neutral,Webcam: You seem calm and composed.
+2025-07-29 14:04:18,neutral,Webcam: You seem calm and composed.
+2025-07-29 14:04:19,sad,Webcam: You may be feeling down or reflective.
+2025-07-29 14:04:20,sad,Webcam: You may be feeling down or reflective.
+2025-07-29 14:04:21,sad,Webcam: You may be feeling down or reflective.
+2025-07-29 14:04:22,sad,Webcam: You may be feeling down or reflective.
+2025-07-29 14:04:22,sad,Webcam: You may be feeling down or reflective.
+2025-07-29 14:04:23,sad,Webcam: You may be feeling down or reflective.
+2025-07-29 14:04:24,sad,Webcam: You may be feeling down or reflective.
+2025-07-29 14:04:25,sad,Webcam: You may be feeling down or reflective.
+2025-07-29 14:04:26,sad,Webcam: You may be feeling down or reflective.
+2025-07-29 14:05:50,Error,Real-time Voice: Emotion detection in progress or not clear.
+2025-07-29 14:05:53,Error,Real-time Voice: Emotion detection in progress or not clear.
+2025-07-29 14:05:56,Error,Real-time Voice: Emotion detection in progress or not clear.
+2025-07-29 14:05:59,Error,Real-time Voice: Emotion detection in progress or not clear.
